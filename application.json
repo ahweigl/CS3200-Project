@@ -1,8 +1,32 @@
 {
   "pages": [
     {
-      "id": "Page1",
+      "id": "HomePage",
       "isDefault": true
+    },
+    {
+      "id": "Lisa Listener",
+      "isDefault": false
+    },
+    {
+      "id": "Colgate Creator",
+      "isDefault": false
+    },
+    {
+      "id": "Lisa Page1",
+      "isDefault": false
+    },
+    {
+      "id": "Lisa Page2",
+      "isDefault": false
+    },
+    {
+      "id": "Colgate Page1",
+      "isDefault": false
+    },
+    {
+      "id": "Colgate Page2",
+      "isDefault": false
     }
   ],
   "viewMode": false,
@@ -10,6 +34,9 @@
   "unreadCommentThreads": 0,
   "color": "#F1DEFF",
   "icon": "arrow-up",
+  "unpublishedAppLayout": {
+    "type": "DESKTOP"
+  },
   "unpublishedCustomJSLibs": [],
   "publishedCustomJSLibs": [],
   "evaluationVersion": 2,

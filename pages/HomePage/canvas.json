@@ -29,7 +29,7 @@
             {
               "resetFormOnClick": false,
               "boxShadow": "none",
-              "widgetName": "Button1",
+              "widgetName": "Lisa_Listener_Button",
               "onClick": "{{navigateTo('Lisa Listener', {}, 'SAME_WINDOW')}}",
               "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
               "displayName": "Button",
@@ -84,7 +84,7 @@
             {
               "resetFormOnClick": false,
               "boxShadow": "none",
-              "widgetName": "Button1Copy",
+              "widgetName": "Colgate_Creator_Button",
               "onClick": "{{navigateTo('Colgate Creator', {}, 'SAME_WINDOW')}}",
               "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
               "displayName": "Button",
@@ -137,7 +137,7 @@
               "placement": "CENTER"
             },
             {
-              "widgetName": "Text1",
+              "widgetName": "Welcome_Text",
               "displayName": "Text",
               "iconSVG": "/static/media/icon.97c59b523e6f70ba6f40a10fc2c7c5b5.svg",
               "searchTags": [
@@ -190,7 +190,7 @@
               "minDynamicHeight": 4
             },
             {
-              "widgetName": "Divider1",
+              "widgetName": "Divider",
               "thickness": 2,
               "displayName": "Divider",
               "iconSVG": "/static/media/icon.cbe8f608ca868e1eb44607e5fbd4a9e5.svg",
@@ -226,7 +226,7 @@
               "originalBottomRow": 11
             },
             {
-              "widgetName": "Text2",
+              "widgetName": "Select_User_Persona",
               "displayName": "Text",
               "iconSVG": "/static/media/icon.97c59b523e6f70ba6f40a10fc2c7c5b5.svg",
               "searchTags": [

@@ -119,6 +119,7 @@
               "resetFormOnClick": false,
               "boxShadow": "none",
               "widgetName": "Button1",
+              "onClick": "{{navigateTo('Lisa Page1', {}, 'SAME_WINDOW')}}",
               "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
               "displayName": "Button",
               "iconSVG": "/static/media/icon.cca026338f1c8eb6df8ba03d084c2fca.svg",
@@ -133,7 +134,11 @@
               "hideCard": false,
               "animateLoading": true,
               "parentColumnSpace": 17.9375,
-              "dynamicTriggerPathList": [],
+              "dynamicTriggerPathList": [
+                {
+                  "key": "onClick"
+                }
+              ],
               "leftColumn": 16,
               "dynamicBindingPathList": [
                 {
@@ -169,6 +174,7 @@
               "resetFormOnClick": false,
               "boxShadow": "none",
               "widgetName": "Button1Copy",
+              "onClick": "{{navigateTo('Lisa Page2', {}, 'SAME_WINDOW')}}",
               "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
               "displayName": "Button",
               "iconSVG": "/static/media/icon.cca026338f1c8eb6df8ba03d084c2fca.svg",
@@ -183,7 +189,11 @@
               "hideCard": false,
               "animateLoading": true,
               "parentColumnSpace": 17.9375,
-              "dynamicTriggerPathList": [],
+              "dynamicTriggerPathList": [
+                {
+                  "key": "onClick"
+                }
+              ],
               "leftColumn": 16,
               "dynamicBindingPathList": [
                 {
@@ -193,7 +203,7 @@
                   "key": "borderRadius"
                 }
               ],
-              "text": "View episode/creator/podcast info ",
+              "text": "View ep/creator/podcast info ",
               "isDisabled": false,
               "key": "5ig0nrr4t0",
               "isDeprecated": false,

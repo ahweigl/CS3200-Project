@@ -35,6 +35,9 @@
   "color": "#F1DEFF",
   "icon": "arrow-up",
   "unpublishedAppLayout": {
+    "type": "FLUID"
+  },
+  "publishedAppLayout": {
     "type": "DESKTOP"
   },
   "unpublishedCustomJSLibs": [],

@@ -1,3 +1,9 @@
+# Podify: Appsmith Frontend
+
+## Created by Angela Weigl, Natalie Costa, Ray Valenzuela, Ky Wong for CS 3200 with Mark Fontenot
+
+Podify is a podcast app built for listeners and creators to share and enjoy audio content. Listeners have the ability to create, edit, and delete playlists, view creator profiles, and more. Creators have the ability to post and delete podcast episodes and pocasts, sell merchandise, and more. Podify's main goal is to lessen the time and effort it normally takes to find a good podcast to listen to, and serves as an all-in-one hub for interactions between listeners and creators.
+
 ![](https://raw.githubusercontent.com/appsmithorg/appsmith/release/static/appsmith_logo_primary.png)
 
 This app is built using Appsmith. Turn any datasource into an internal app in minutes. Appsmith lets you drag-and-drop components to build dashboards, write logic with JavaScript objects and connect to any API, database or GraphQL source.

@@ -16,7 +16,7 @@
       "policies": [],
       "userPermissions": []
     },
-    "pageId": "Lisa Page1",
+    "pageId": "Lisa Playlist Page",
     "actionConfiguration": {
       "timeoutInMillisecond": 10000,
       "paginationType": "NONE",
@@ -59,7 +59,7 @@
     "policies": [],
     "userPermissions": []
   },
-  "id": "Lisa Page1_add_new_playlist",
+  "id": "Lisa Playlist Page_add_new_playlist",
   "deleted": false,
   "gitSyncId": "643ec939b9c7727f73e3ae08_643ee8e7a5437a1392ffe280"
 }

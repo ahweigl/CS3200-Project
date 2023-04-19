@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "Lisa Page1",
-    "slug": "lisa-page1",
+    "name": "Lisa Playlist Page",
+    "slug": "lisa-playlist-page",
     "layouts": [
       {
         "viewMode": false,
@@ -40,7 +40,7 @@
               "parentColumnSpace": 13.5625,
               "dynamicTriggerPathList": [],
               "imageShape": "RECTANGLE",
-              "leftColumn": 38,
+              "leftColumn": 43,
               "dynamicBindingPathList": [
                 {
                   "key": "borderRadius"
@@ -50,7 +50,7 @@
               "key": "ve8ntctjgb",
               "image": "https://cdn2.hubspot.net/hubfs/53/tools/make-my-persona/avatars/static-avatars/avatar-7.svg",
               "isDeprecated": false,
-              "rightColumn": 45,
+              "rightColumn": 50,
               "objectFit": "cover",
               "widgetId": "lq5t7regtn",
               "isVisible": true,
@@ -84,7 +84,7 @@
               "fontFamily": "Rubik",
               "parentColumnSpace": 17.9375,
               "dynamicTriggerPathList": [],
-              "leftColumn": 12,
+              "leftColumn": 17,
               "dynamicBindingPathList": [
                 {
                   "key": "truncateButtonColor"
@@ -98,7 +98,7 @@
               "text": "Playlists",
               "key": "k6pnn263ua",
               "isDeprecated": false,
-              "rightColumn": 37,
+              "rightColumn": 42,
               "textAlign": "CENTER",
               "dynamicHeight": "AUTO_HEIGHT",
               "widgetId": "q692046hae",
@@ -134,14 +134,14 @@
               "hideCard": false,
               "animateLoading": true,
               "parentColumnSpace": 17.9375,
-              "leftColumn": 12,
+              "leftColumn": 17,
               "dynamicBindingPathList": [],
               "key": "mztzjxez7a",
               "dividerColor": "#858282",
               "orientation": "horizontal",
               "strokeStyle": "solid",
               "isDeprecated": false,
-              "rightColumn": 37,
+              "rightColumn": 42,
               "widgetId": "xbvbfz6bty",
               "capSide": 0,
               "minWidth": 450,
@@ -178,7 +178,7 @@
                   "key": "onClick"
                 }
               ],
-              "leftColumn": 45,
+              "leftColumn": 50,
               "dynamicBindingPathList": [
                 {
                   "key": "buttonColor"
@@ -187,11 +187,11 @@
                   "key": "borderRadius"
                 }
               ],
-              "text": "Home",
+              "text": "Back to Lisa Listener",
               "isDisabled": false,
               "key": "5ig0nrr4t0",
               "isDeprecated": false,
-              "rightColumn": 50,
+              "rightColumn": 63,
               "isDefaultClickDisabled": true,
               "widgetId": "2ihvf4fdff",
               "minWidth": 120,
@@ -227,7 +227,7 @@
               "shouldScrollContents": true,
               "animateLoading": true,
               "parentColumnSpace": 13.5625,
-              "leftColumn": 1,
+              "leftColumn": 6,
               "dynamicBindingPathList": [
                 {
                   "key": "borderRadius"
@@ -737,7 +737,7 @@
               "key": "vvrr16u5yl",
               "backgroundColor": "#FFFFFF",
               "isDeprecated": false,
-              "rightColumn": 52,
+              "rightColumn": 57,
               "dynamicHeight": "AUTO_HEIGHT",
               "widgetId": "aj64kxc3lc",
               "minWidth": 450,
@@ -770,7 +770,7 @@
               "shouldScrollContents": true,
               "animateLoading": true,
               "parentColumnSpace": 13.5625,
-              "leftColumn": 1,
+              "leftColumn": 6,
               "dynamicBindingPathList": [
                 {
                   "key": "borderRadius"
@@ -1280,7 +1280,7 @@
               "key": "vvrr16u5yl",
               "backgroundColor": "#FFFFFF",
               "isDeprecated": false,
-              "rightColumn": 52,
+              "rightColumn": 57,
               "dynamicHeight": "AUTO_HEIGHT",
               "widgetId": "3k442l7pjn",
               "minWidth": 450,
@@ -1313,7 +1313,7 @@
               "shouldScrollContents": true,
               "animateLoading": true,
               "parentColumnSpace": 13.5625,
-              "leftColumn": 1,
+              "leftColumn": 6,
               "dynamicBindingPathList": [
                 {
                   "key": "borderRadius"
@@ -1523,7 +1523,7 @@
               "key": "vvrr16u5yl",
               "backgroundColor": "#FFFFFF",
               "isDeprecated": false,
-              "rightColumn": 52,
+              "rightColumn": 57,
               "dynamicHeight": "AUTO_HEIGHT",
               "widgetId": "6m9lzj1wl0",
               "minWidth": 450,
@@ -1556,7 +1556,7 @@
               "shouldScrollContents": true,
               "animateLoading": true,
               "parentColumnSpace": 13.5625,
-              "leftColumn": 1,
+              "leftColumn": 6,
               "dynamicBindingPathList": [
                 {
                   "key": "borderRadius"
@@ -1766,7 +1766,7 @@
               "key": "vvrr16u5yl",
               "backgroundColor": "#FFFFFF",
               "isDeprecated": false,
-              "rightColumn": 52,
+              "rightColumn": 57,
               "dynamicHeight": "AUTO_HEIGHT",
               "widgetId": "6e1mj3342n",
               "minWidth": 450,
@@ -1786,7 +1786,7 @@
         "layoutOnLoadActions": [],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "Lisa Page1",
+        "id": "Lisa Playlist Page",
         "deleted": false,
         "policies": [],
         "userPermissions": []

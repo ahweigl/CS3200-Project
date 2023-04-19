@@ -2,12 +2,12 @@
   "pluginType": "API",
   "pluginId": "restapi-plugin",
   "unpublishedAction": {
-    "name": "delete_playlist",
+    "name": "delete_episode_from_playlist",
     "datasource": {
       "name": "DEFAULT_REST_DATASOURCE",
       "pluginId": "restapi-plugin",
       "datasourceConfiguration": {
-        "url": "web:4000/l/playlists/deleteplaylist/{{date_made3.inputText}}"
+        "url": "web:4000/l/playlists/{{episode_number3.text}}"
       },
       "invalids": [],
       "messages": [],
@@ -16,7 +16,7 @@
       "policies": [],
       "userPermissions": []
     },
-    "pageId": "Lisa Page1",
+    "pageId": "Lisa Playlist Page",
     "actionConfiguration": {
       "timeoutInMillisecond": 10000,
       "paginationType": "NONE",
@@ -29,7 +29,7 @@
       ],
       "encodeParamsToggle": true,
       "queryParameters": [],
-      "body": "{{delete_playlist_form.data}}",
+      "body": "{{delete_episode_playlist_form.data}}",
       "bodyFormData": [],
       "httpMethod": "DELETE",
       "selfReferencingDataPaths": [],
@@ -55,15 +55,15 @@
     "invalids": [],
     "messages": [],
     "jsonPathKeys": [
-      "date_made3.inputText",
-      "delete_playlist_form.data"
+      "delete_episode_playlist_form.data",
+      "episode_number3.text"
     ],
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,
     "policies": [],
     "userPermissions": []
   },
-  "id": "Lisa Page1_delete_playlist",
+  "id": "Lisa Playlist Page_delete_episode_from_playlist",
   "deleted": false,
-  "gitSyncId": "643ec939b9c7727f73e3ae08_643ef456e1e0d320e81a0434"
+  "gitSyncId": "643ec939b9c7727f73e3ae08_643ef35ee1e0d320e81a0431"
 }

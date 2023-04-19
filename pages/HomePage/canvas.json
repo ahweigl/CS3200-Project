@@ -50,7 +50,7 @@
                   "key": "onClick"
                 }
               ],
-              "leftColumn": 15,
+              "leftColumn": 21,
               "dynamicBindingPathList": [
                 {
                   "key": "buttonColor"
@@ -63,7 +63,7 @@
               "isDisabled": false,
               "key": "5ig0nrr4t0",
               "isDeprecated": false,
-              "rightColumn": 34,
+              "rightColumn": 42,
               "isDefaultClickDisabled": true,
               "widgetId": "e2uvclw3cg",
               "minWidth": 120,
@@ -105,7 +105,7 @@
                   "key": "onClick"
                 }
               ],
-              "leftColumn": 15,
+              "leftColumn": 21,
               "dynamicBindingPathList": [
                 {
                   "key": "buttonColor"
@@ -118,7 +118,7 @@
               "isDisabled": false,
               "key": "5ig0nrr4t0",
               "isDeprecated": false,
-              "rightColumn": 34,
+              "rightColumn": 42,
               "isDefaultClickDisabled": true,
               "widgetId": "xxs5zsf1kc",
               "minWidth": 120,
@@ -155,7 +155,7 @@
               "fontFamily": "Rubik",
               "parentColumnSpace": 17.9375,
               "dynamicTriggerPathList": [],
-              "leftColumn": 4,
+              "leftColumn": 11,
               "dynamicBindingPathList": [
                 {
                   "key": "truncateButtonColor"
@@ -169,7 +169,7 @@
               "text": "Welcome to Podify!",
               "key": "k6pnn263ua",
               "isDeprecated": false,
-              "rightColumn": 45,
+              "rightColumn": 52,
               "textAlign": "CENTER",
               "dynamicHeight": "AUTO_HEIGHT",
               "widgetId": "q692046hae",
@@ -205,14 +205,14 @@
               "hideCard": false,
               "animateLoading": true,
               "parentColumnSpace": 17.9375,
-              "leftColumn": 12,
+              "leftColumn": 19,
               "dynamicBindingPathList": [],
               "key": "mztzjxez7a",
               "dividerColor": "#858282",
               "orientation": "horizontal",
               "strokeStyle": "solid",
               "isDeprecated": false,
-              "rightColumn": 37,
+              "rightColumn": 44,
               "widgetId": "xbvbfz6bty",
               "capSide": 0,
               "minWidth": 450,
@@ -244,7 +244,7 @@
               "fontFamily": "Rubik",
               "parentColumnSpace": 17.9375,
               "dynamicTriggerPathList": [],
-              "leftColumn": 12,
+              "leftColumn": 19,
               "dynamicBindingPathList": [
                 {
                   "key": "truncateButtonColor"
@@ -258,7 +258,7 @@
               "text": "Select your user persona: ",
               "key": "k6pnn263ua",
               "isDeprecated": false,
-              "rightColumn": 37,
+              "rightColumn": 44,
               "textAlign": "CENTER",
               "dynamicHeight": "AUTO_HEIGHT",
               "widgetId": "p0p2s0eyq7",

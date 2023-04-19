@@ -625,10 +625,10 @@
               "renderMode": "CANVAS",
               "isLoading": false,
               "responsiveBehavior": "fill",
-              "originalTopRow": 11,
+              "originalTopRow": 9,
               "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
               "maxDynamicHeight": 9000,
-              "originalBottomRow": 74,
+              "originalBottomRow": 72,
               "minDynamicHeight": 10
             },
             {
@@ -868,10 +868,10 @@
               "renderMode": "CANVAS",
               "isLoading": false,
               "responsiveBehavior": "fill",
-              "originalTopRow": 76,
+              "originalTopRow": 73,
               "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
               "maxDynamicHeight": 9000,
-              "originalBottomRow": 94,
+              "originalBottomRow": 91,
               "minDynamicHeight": 10
             },
             {
@@ -962,7 +962,7 @@
               "originalTopRow": 0,
               "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
               "maxDynamicHeight": 9000,
-              "originalBottomRow": 7,
+              "originalBottomRow": 5,
               "fontSize": "1.875rem",
               "minDynamicHeight": 4
             },
@@ -999,14 +999,14 @@
               "renderMode": "CANVAS",
               "isLoading": false,
               "responsiveBehavior": "fill",
-              "originalTopRow": 7,
-              "originalBottomRow": 11
+              "originalTopRow": 5,
+              "originalBottomRow": 9
             },
             {
               "resetFormOnClick": false,
               "boxShadow": "none",
               "widgetName": "Button2",
-              "onClick": "{{navigateTo('HomePage', {}, 'SAME_WINDOW')}}",
+              "onClick": "{{navigateTo('Colgate Creator', {}, 'SAME_WINDOW')}}",
               "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
               "displayName": "Button",
               "iconSVG": "/static/media/icon.cca026338f1c8eb6df8ba03d084c2fca.svg",
